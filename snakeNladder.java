@@ -157,7 +157,7 @@ public class snakeNladder { //Two player program
             System.out.println("\n************");
 
         }
-        if (player1_Position==10){ System.out.println("Player 1 is Winner");
+        if (player1_Position==100){ System.out.println("Player 1 is Winner");
             System.out.println("No. of times dice rolled to win are "+diceRolled); }
         else { System.out.println("Player 2 is Winner");
             System.out.println("No. of times dice rolled to win are "+diceRolled2); }
